@@ -1,13 +1,10 @@
 package org.resoopen.jcloudrate;
 
 /**
- * Hello world!
- *
+ * AbstractRatingManager - Abstract class to send and get ratings
+ * database or other sources.
  */
 public class AbstractRatingManager 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+   
 }
